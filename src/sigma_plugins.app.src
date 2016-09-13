@@ -1,0 +1,6 @@
+{application,sigma_plugins,
+             [{description,[]},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {modules,[]}]}.
